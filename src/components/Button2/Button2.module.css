@@ -1,0 +1,14 @@
+.buttonBase{
+    padding: 8px 12px;
+    color:white;
+    font-size: 24px;
+    cursor:pointer;
+    border-radius:4px;
+    border:none;
+}
+.sentButton{
+    background-color:green;    
+}
+.normalButton{
+    background-color:lightseagreen;
+}
